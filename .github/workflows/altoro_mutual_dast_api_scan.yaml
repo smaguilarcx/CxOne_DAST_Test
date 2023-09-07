@@ -44,8 +44,8 @@ jobs:
             openapi: './altoro_mutual.json'
             log_level: info
             #prod
-            base_url: "https://ast.checkmarx.net"
-            environment_id: "19c8a470-1b0c-4766-b807-5e839a65c31b"
+            base_url: "https://eu.ast.checkmarx.net"
+            environment_id: "7035d7d4-d4ec-4f70-9049-af2d754e151e"
             # canary
             #base_url: "https://deu.ast.checkmarx.net"
             #environment_id: "xxx"
